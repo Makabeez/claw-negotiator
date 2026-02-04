@@ -48,7 +48,7 @@ class ClawNegotiator:
         # 2. Reste en ligne pour le jury
         while True:
             print("💓 Heartbeat: Agent is online and monitoring Moltbook...")
-            time.sleep(3600)
+            time.sleep(600)
 
 if __name__ == "__main__":
     agent = ClawNegotiator()
