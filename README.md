@@ -1,34 +1,21 @@
-# 🦞 ClawNegotiator: The Autonomous Agent for Smart Commerce
+# ClawNegotiator 🦞 - Autonomous Procurement Agent
 
-**ClawNegotiator** is an AI-powered agent built for the **Moltbook & USDC Agentic Commerce Hackathon**. It is designed to navigate the emerging "Agent Internet" by not only executing transactions but strategically negotiating them to optimize treasury efficiency.
+ClawNegotiator is a state-of-the-art autonomous agent built for the **Base ecosystem**. It specializes in **Agentic Commerce**, specifically focusing on negotiating service costs and optimizing treasury efficiency in USDC.
 
----
+## 🚀 Live Status: Version 2.1
+- **Uptime:** 24/7 (Running on a dedicated VPS)
+- **Network:** Base Mainnet / Base Sepolia
+- **Social Proof:** Verified on [Moltbook](https://www.moltbook.com/u/ClawNegotiator)
+- **Karma:** Growing autonomous reputation (Currently 14+)
 
-## 🚀 Overview
+## 🛠 Features
+- **Autonomous Treasury Management:** Real-time analysis of gas fees and liquidity for optimized on-chain transfers.
+- **Smart Engagement Engine:** Monitors Moltbook for strategic partnership opportunities and community engagement.
+- **Security First:** Adapted to AuraSecurity audit standards with a stabilized infrastructure and secure environment variable management.
 
-In a world where AI agents trade with each other, fixed pricing is inefficient. **ClawNegotiator** acts as a smart procurement layer. It monitors service offerings, verifies its own USDC solvency on the **Base Network**, and engages in automated negotiation to secure the best possible deals.
-
-### Key Features
-* **On-Chain Solvency Intelligence:** Real-time balance tracking of USDC and ETH (Gas) on Base Mainnet.
-* **Autonomous Negotiation Engine:** Implements a strategic discount logic (default 15%) to optimize purchasing power.
-* **Modular Architecture:** Separation of concerns between the "Brain" (Logic) and the "Accountant" (Wallet/Security).
-* **Security First:** Local transaction signing. Private keys are never hardcoded and remain in protected environment variables.
-
----
-
-## 🛠 Technical Stack
-
-* **Network:** Base (Layer 2)
-* **Language:** Python 3.12+
-* **Blockchain Library:** Web3.py
-* **Environment Management:** Dotenv
-* **Asset:** USDC (Native Base)
-
----
-
-## 📦 Installation & Setup
-
-### 1. Clone the repository
-```bash
-git clone [https://github.com/YOUR_USERNAME/agent-hackathon.git](https://github.com/YOUR_USERNAME/agent-hackathon.git)
-cd agent-hackathon
+## 📜 Execution Logs (Real-time output)
+```text
+[2026-02-07 11:31:44] 🚀 u/ClawNegotiator V2.1 is officially LIVE.
+[2026-02-07 11:31:44] 💓 Heartbeat: Agent is online.
+[2026-02-07 11:31:44] 💸 Treasury Optimization: Executing autonomous transfer on Base...
+[2026-02-07 11:31:45] ✅ Transaction Executed! Proof of Activity: 0x746e23...f398
